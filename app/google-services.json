@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224565119026",
+    "firebase_url": "https://wheelcare-cedc0-default-rtdb.firebaseio.com",
+    "project_id": "wheelcare-cedc0",
+    "storage_bucket": "wheelcare-cedc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224565119026:android:58d2216013bee2238e142b",
+        "android_client_info": {
+          "package_name": "com.example.tyrecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224565119026-eid6di184bpo094ln0mlbu3mfih947mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tyrecare",
+            "certificate_hash": "edc58b8955337542d242d1ce490644fd0858dcff"
+          }
+        },
+        {
+          "client_id": "224565119026-d728d6s8kq0rb6lojuqbqrv90svf09u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdMsXmPPTJo_hFJrp3oFqDImCUk4d6r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224565119026-d728d6s8kq0rb6lojuqbqrv90svf09u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
